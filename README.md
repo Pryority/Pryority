@@ -34,9 +34,9 @@ Hello world, I'm Matthew Pryor!
 
 ## 🗣 Connect with me
 <p align="center">
-	<a href="mailto:matthewapryor@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/matthew-pryor-6b727121a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Pryority"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:matthewapryor@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg??style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/matthew-pryor-6b727121a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg??style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/Pryority"><img src="https://img.shields.io/badge/github-%23181717.svg??style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -52,39 +52,40 @@ Hello world, I'm Matthew Pryor!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Pryority"><img alt="React" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Tailwindcss" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-        <a href="https://github.com/Pryority"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwind%20-%2314354C.svg?logo=tailwindcss&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="React" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?style=flat&logo=Keras&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Tailwindcss" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=flat&logo=numpy&logoColor=white"></a>
+        <a href="https://github.com/Pryority"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwind%20-%2314354C.svg?style=flat&logo=tailwindcss&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?style=flat&logo=Bootstrap&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/Pryority"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=flat&logo=firebase&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/Pryority"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?style=flat&logo=google-colab&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=flat&logo=google%20sheets&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16.svg?style=flat&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
 
-<!--
+
 ### 👨🏽‍💻 Workspace
 <p>
     <a href="https://github.com/Pryority"><img alt="Macbook Pro M1" src="https://img.shields.io/badge/%EF%A3%BF%20Apple-M1%20Macbook%20Pro-lightgrey"></a>
-    <a href="https://github.com/Pryority"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&
+for-the-badge&.svg?style=flat&logo=spotify&logoColor=white"></a>
 </p>
--->
+
 
 
 ## <a href="https://github.com/Pryority"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
@@ -111,7 +112,7 @@ If you have any questions about full-stack web development, feel free to <a href
   <td width="50%" valign="top">
 
 
-**<a href="https://github.com/Pryority"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+**<a href="https://github.com/Pryority"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat"></a>**
 
   </td>
   </tr>
@@ -119,6 +120,6 @@ If you have any questions about full-stack web development, feel free to <a href
 
 ------
 
-<image xmlns="http://www.w3.org/2000/svg" x="9" y="7" width="14" height="14" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkdpdEh1YjwvdGl0bGU+PHBhdGggZD0iTTEyIC4yOTdjLTYuNjMgMC0xMiA1LjM3My0xMiAxMiAwIDUuMzAzIDMuNDM4IDkuOCA4LjIwNSAxMS4zODUuNi4xMTMuODItLjI1OC44Mi0uNTc3IDAtLjI4NS0uMDEtMS4wNC0uMDE1LTIuMDQtMy4zMzguNzI0LTQuMDQyLTEuNjEtNC4wNDItMS42MUM0LjQyMiAxOC4wNyAzLjYzMyAxNy43IDMuNjMzIDE3LjdjLTEuMDg3LS43NDQuMDg0LS43MjkuMDg0LS43MjkgMS4yMDUuMDg0IDEuODM4IDEuMjM2IDEuODM4IDEuMjM2IDEuMDcgMS44MzUgMi44MDkgMS4zMDUgMy40OTUuOTk4LjEwOC0uNzc2LjQxNy0xLjMwNS43Ni0xLjYwNS0yLjY2NS0uMy01LjQ2Ni0xLjMzMi01LjQ2Ni01LjkzIDAtMS4zMS40NjUtMi4zOCAxLjIzNS0zLjIyLS4xMzUtLjMwMy0uNTQtMS41MjMuMTA1LTMuMTc2IDAgMCAxLjAwNS0uMzIyIDMuMyAxLjIzLjk2LS4yNjcgMS45OC0uMzk5IDMtLjQwNSAxLjAyLjAwNiAyLjA0LjEzOCAzIC40MDUgMi4yOC0xLjU1MiAzLjI4NS0xLjIzIDMuMjg1LTEuMjMuNjQ1IDEuNjUzLjI0IDIuODczLjEyIDMuMTc2Ljc2NS44NCAxLjIzIDEuOTEgMS4yMyAzLjIyIDAgNC42MS0yLjgwNSA1LjYyNS01LjQ3NSA1LjkyLjQyLjM2LjgxIDEuMDk2LjgxIDIuMjIgMCAxLjYwNi0uMDE1IDIuODk2LS4wMTUgMy4yODYgMCAuMzE1LjIxLjY5LjgyNS41N0MyMC41NjUgMjIuMDkyIDI0IDE3LjU5MiAyNCAxMi4yOTdjMC02LjYyNy01LjM3My0xMi0xMi0xMiIvPjwvc3ZnPg=="/>[Pryority](https://github.com/Pryority)
+[Pryority](https://github.com/Pryority)
 
 Last Edited on: July 24, 2022
