@@ -45,8 +45,9 @@ Hello world, I'm Matthew Pryor!
 
 <p>
     <a href="https://github.com/Pryority"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Pryority"><img alt="Solidity" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="SQL" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="SQL" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?logo=mysql&logoColor=white">
+	<a href="https://github.com/Pryority"><img alt="Solidity" src="https://img.shields.io/badge/Solidity%20-%2314354C.svg?logo=solidity&logoColor=white"></a>
+</a>
 
 ### 🧰 Frameworks and Libraries
 
