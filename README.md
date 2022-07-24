@@ -52,10 +52,10 @@ Hello world, I'm Matthew Pryor!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Pryority"><img alt="React" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?style=flat&logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Tailwindcss" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=flat&logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="React" src="https://img.shields.io/badge/React%20-%23D00000.svg?style=flat&logo=React&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Express" src="https://img.shields.io/badge/Express%20-%23013243.svg?style=flat&logo=Express&logoColor=white"></a>
         <a href="https://github.com/Pryority"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwind%20-%2314354C.svg?style=flat&logo=tailwindcss&logoColor=white"></a>
-    <a href="https://github.com/Pryority"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?style=flat&logo=Bootstrap&logoColor=white"></a>
+<!--     <a href="https://github.com/Pryority"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?style=flat&logo=Bootstrap&logoColor=white"></a> -->
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -102,11 +102,11 @@ for-the-badge&.svg?style=flat&logo=spotify&logoColor=white"></a>
 </p>
 <br/>
 
-## Let's Work on Your Project Together!
+## Let's Work on A Project Together!
 
 If you have any questions about full-stack web development, feel free to <a href="mailto:matthewawpryor@gmail.com">contact me through email</a> me.
 
-[Add fiverr once account is created]: <> You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/matthew-pryor-6b727121a/">LinkedIn</a>.
+<!-- You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/matthew-pryor-6b727121a/">LinkedIn</a>. -->
 
   </td>
   <td width="50%" valign="top">
