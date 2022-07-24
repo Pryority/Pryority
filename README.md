@@ -75,8 +75,6 @@ Hello world, I'm Matthew Pryor!
     <a href="https://github.com/Pryority"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16.svg?style=flat&logo=stack-overflow&logoColor=white"></a>
   
 </p>
-</br>
-
 
 ### 👨🏽‍💻 Workspace
 <p>
@@ -84,11 +82,11 @@ Hello world, I'm Matthew Pryor!
     <a href="https://github.com/Pryority"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"></a>
 </p>
 
-
-
 ## <a href="https://github.com/Pryority"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
+<br/>
+
 <summary><b>👾 Matthew's Stats</b></summary>
 <br/>
 <p align="center">
