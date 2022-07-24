@@ -22,7 +22,7 @@ Hello world, I'm Matthew Pryor!
 <hr>
 
 <pre>
-💻 I am Full Stack Developer who recently completed a bootcamp with the University of Toronto
+💻 I am Full Stack Developer who recently completed a coding bootcamp with the University of Toronto
 🎓 I have a Bachelors in Physical Health Education and Education from Laurentian University in Sudbury, Ontario, Canada
 ⛓ I am very interested in blockchains and data science, and would like to study more on machine learning
 🔭 Working on practicing my skills and learning as much as possible
