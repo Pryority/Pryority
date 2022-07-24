@@ -22,13 +22,13 @@ Hello world, I'm Matthew Pryor!
 <hr>
 
 <pre>
-💻 I am Full Stack Developer who recently completed a coding bootcamp with the University of Toronto
-🎓 I have two Bachelor degrees: Honours of Physical Health Education and Education from Laurentian University in Sudbury, Ontario, Canada
-⛓ I am very interested in blockchains and data science, and would like to study more on machine learning
-🔭 Working on practicing my skills and learning as much as possible
-🧠 Learning about blockchain development, how blockchains work, how they scale, etc
-👨🏼‍💻 Main languages: JavaScript, MySQL, Solidity
-📂 I’m currently open for: <b>an Intern opportunity</b> or a new <b>full-time job</b>. Please check out <a href="https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing" target="_blank">MY RESUME</a>.
+💻 I am Full Stack Developer who recently completed a coding bootcamp with the University of Toronto.
+🎓 I have two Bachelor degrees: Honours of Physical Health Education and Education from Laurentian University in Sudbury, Ontario, Canada.
+⛓ I am very interested in blockchains and data science, and would like to study more on machine learning.
+🔭 Working on practicing my skills and learning as much as possible.
+🧠 Learning about blockchain development, how blockchains work, how they scale, etc.
+👨🏼‍💻 Main languages: JavaScript, MySQL, Solidity.
+🖋 I’m currently open for: <b>an entry-level or Intern opportunity</b> or a new <b>full-time job</b>. Please check out <a href="https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing" target="_blank">MY RESUME</a>.
 </pre>
 <hr>
 
@@ -110,10 +110,6 @@ If you have any questions about full-stack web development, feel free to <a href
 
 
 **<a href="https://github.com/Pryority"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat"></a>**
-
-  </td>
-  </tr>
-</table>
 
 ------
 
