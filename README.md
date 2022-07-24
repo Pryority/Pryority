@@ -27,7 +27,7 @@ Hello world, I'm Matthew Pryor!
 ⛓ I am very interested in blockchains and data science, and would like to study more on machine learning
 🔭 Working on practicing my skills and learning as much as possible
 🧠 Learning about blockchain development, how blockchains work, how they scale, etc.
-👨🏼‍💻 Main languages: JavaScript, Solidity
+👨🏼‍💻 Main languages: JavaScript, MySQL, Solidity
 📂 I’m currently open for: <b>an Intern opportunity</b> or a new <b>full-time job</b>. Here is <a href="https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
