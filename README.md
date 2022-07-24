@@ -33,6 +33,7 @@ Hello world, I'm Matthew Pryor!
 <hr>
 
 ## 🗣 Connect with me
+<br/>
 <p align="center">
 	<a href="mailto:matthewapryor@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/matthew-pryor-6b727121a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
