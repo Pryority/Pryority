@@ -62,6 +62,7 @@ Hello world, I'm Matthew Pryor!
 
 <p>
     <a href="https://github.com/Pryority"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+<a href="https://github.com/Pryority"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"></a>
     <a href="https://github.com/Pryority"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=flat&logo=firebase&logoColor=white"></a>
 </p>
 
