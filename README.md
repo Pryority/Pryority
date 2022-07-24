@@ -82,10 +82,10 @@ Hello world, I'm Matthew Pryor!
     <a href="https://github.com/Pryority"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"></a>
 </p>
 
-## <a href="https://github.com/Pryority"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+<br/>
+<br/>
 
-<br/>
-<br/>
+## <a href="https://github.com/Pryority"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <summary><b>👾 Matthew's Stats</b></summary>
 <br/>
