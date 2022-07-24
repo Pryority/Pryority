@@ -83,8 +83,7 @@ Hello world, I'm Matthew Pryor!
 ### 👨🏽‍💻 Workspace
 <p>
     <a href="https://github.com/Pryority"><img alt="Macbook Pro M1" src="https://img.shields.io/badge/%EF%A3%BF%20Apple-M1%20Macbook%20Pro-lightgrey"></a>
-    <a href="https://github.com/Pryority"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&
-for-the-badge&.svg?style=flat&logo=spotify&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"></a>
 </p>
 
 
