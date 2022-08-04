@@ -21,15 +21,16 @@ Hello world, I'm Matthew Pryor!
 
 <hr>
 
-<pre>
-💻 I am Full Stack Developer who recently completed a coding bootcamp with the University of Toronto.
-🎓 I have two Bachelor degrees: Honours of Physical and Health Education and Education from Laurentian University<br/><t/>   in Sudbury, Ontario, Canada.
-⛓ I am very interested in blockchains and data science, and would like to learn more about<br/><t/>    blockchain development.
-🔭 Working on practicing my skills and learning as much as possible.
-🧠 Learning about blockchain development, how blockchains work, how they scale, etc.
-👨🏼‍💻 Main languages: JavaScript, MySQL, Solidity.
-🖋 I’m currently open for: <b>an entry-level or Intern opportunity</b> or a new <b>full-time job</b>. Please check out <a href="https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing" target="_blank">MY RESUME</a>.
-</pre>
+<ul style="list-style-type:none">
+<li>💻 I am Full Stack Developer who recently completed a coding bootcamp with the University of Toronto.</li>
+<li>🎓 I have two Bachelor degrees: Honours of Physical and Health Education and Education from Laurentian University in Sudbury, Ontario, Canada.</li>
+<li>⛓ I am very interested in blockchains and data science, and would like to learn more about blockchain development.</li>
+<li>🔭 Working on practicing my skills and learning as much as possible.</li>
+<li>🧠 Learning about blockchain development, how blockchains work, how they scale, etc.</li>
+<li>👨🏼‍💻 Main languages: JavaScript, MySQL, Solidity.</li>
+<li>🖋 I’m currently open for: <b>an entry-level or Intern opportunity</b> or a new <b>full-time job</b>. 
+Please check out <a href="https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing" target="_blank">MY RESUME</a>.</li>
+</ul>
 <hr>
 
 ## 🗣 Connect with me
