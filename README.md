@@ -63,7 +63,8 @@ Please check out <a href="https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL4
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/Pryority"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+    <a href="https://github.com/Pryority"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23327FC7.svg?style=flat&logo=vercel&logoColor=black"></a>
+	<a href="https://github.com/Pryority"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
 <a href="https://github.com/Pryority"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"></a>
     <a href="https://github.com/Pryority"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=flat&logo=firebase&logoColor=white"></a>
 </p>
