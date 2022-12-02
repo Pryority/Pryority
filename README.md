@@ -42,45 +42,55 @@ Please check out <a href="https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL4
 
 ## 🛠️ My Favorite Tools
 
-### 🔢 Programming Languages
-
-<p>
+<p align="center">
+Languages
+</p>
+	
+<p align="center">
     <a href="https://github.com/Pryority"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 	<a href="https://github.com/Pryority"><img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%blue.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/Pryority"><img alt="SQL" src="https://img.shields.io/badge/MySQL%20-%2314354C.svg?logo=mysql&logoColor=white">
 	<a href="https://github.com/Pryority"><img alt="Solidity" src="https://img.shields.io/badge/Solidity%20-%2314354C.svg?logo=solidity&logoColor=white"></a>
 </a>
 
-### 🧰 Frameworks and Libraries
-
-<p>
+<p align="center">
+Frameworks and Libraries
+</p>
+	
+<p align="center">
     <a href="https://github.com/Pryority"><img alt="React" src="https://img.shields.io/badge/React%20-%23D00000.svg?style=flat&logo=React&logoColor=white"></a>
     <a href="https://github.com/Pryority"><img alt="Express" src="https://img.shields.io/badge/Express%20-%23013243.svg?style=flat&logo=Express&logoColor=white"></a>
         <a href="https://github.com/Pryority"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwind%20-%2314354C.svg?style=flat&logo=tailwindcss&logoColor=white"></a>
 <!--     <a href="https://github.com/Pryority"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?style=flat&logo=Bootstrap&logoColor=white"></a> -->
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+<p align="center">
+Databases and Cloud Hosting
+</p>
 
-<p>
+<p align="center">
     <a href="https://github.com/Pryority"><img alt="Vercel" src="https://img.shields.io/badge/vercel-black?style=flat&logo=vercel&logoColor=white"></a>
 	<a href="https://github.com/Pryority"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
 <a href="https://github.com/Pryority"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"></a>
     <a href="https://github.com/Pryority"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?style=flat&logo=firebase&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+<p align="center">
+Software and Tools
+</p>
 
-<p>
+<p align="center">
       <a href="https://github.com/Pryority"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
     <a href="https://github.com/Pryority"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
     <a href="https://github.com/Pryority"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE"></a>
     <a href="https://github.com/Pryority"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16.svg?style=flat&logo=stack-overflow&logoColor=white"></a>
   
 </p>
+<p align="center">
+Workspace
+</p>
 
-### 👨🏽‍💻 Workspace
-<p>
+<p align="center">
     <a href="https://github.com/Pryority"><img alt="Macbook Pro M1" src="https://img.shields.io/badge/%EF%A3%BF%20Apple-M1%20Macbook%20Pro-lightgrey"></a>
     <a href="https://github.com/Pryority"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"></a>
 </p>
