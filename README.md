@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+Slowly learning NeoVim
+</p>
+
+<p align="center">
 	<a href="https://app.daily.dev/matthewp"><img src="https://api.daily.dev/devcards/f31b06c5aafd4d09bc20530ccfceedb5.png?r=wq0" width="400" alt="Matt Pryor's Dev Card"/></a>
 	
 </p>
