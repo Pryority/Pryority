@@ -6,22 +6,30 @@
 		<img src="https://img.shields.io/github/followers/Pryority?label=Followers" alt="Pryority" />
 	</a>
 </p>
-<br/>
+
 <p align="center">
 	<a href="https://github.com/Pryority">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Outdoor+Adventure+Enthusiast;Freelancer;Seeking+Employment;Friendly;Always%20Learning&center=true&width=380&height=45">
-	</a>
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Outdoor+Adventure+Enthusiast;Freelancer;Seeking+Employment;Friendly;Always%20Learning&center=true&width=380&height=45"></a>
 </p>
 
+<div align="center">
+	<h2>Deployed Web Apps</h2>
+<p align="center">
+	
+1. [yield-farming.eth][1]
+2. [execution-layer.eth][2]
+3. [epos.eth][3]
+4. [trade-crypto.eth][4]
+5. [nft-tcg.eth][5]
+	</p>
+	</div>
 
-| Deployed Web Apps |
-| --- |
-| [yield-farming.eth](https://yield-farming.eth.limo) |
-| [execution-layer.eth](https://execution-layer.eth.limo) |
-| [epos.eth](https://epos.eth.limo) |
-| [trade-crypto.eth](https://yield-farming.eth.limo) |
-| [nft-tcg.eth](https://nft-tcg.eth.limo) |
-
+[1]: https://yield-farming.eth.limo
+[2]: https://execution-layer.eth.limo
+[3]: https://epos.eth.limo
+[4]: https://trade-crypto.eth.limo
+[5]: https://nft-tcg.eth.limo
+	
 <h3 align="center">
 Actively learning about Ethereum, Internet Protocols, NeoVim, and more! 
 </h3>
