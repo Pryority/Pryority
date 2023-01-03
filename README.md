@@ -13,9 +13,18 @@
 	</a>
 </p>
 
-<p align="center">
-Slowly learning NeoVim
-</p>
+
+| Deployed Web Apps |
+| --- |
+| [yield-farming.eth](https://yield-farming.eth.limo) |
+| [execution-layer.eth](https://execution-layer.eth.limo) |
+| [epos.eth](https://epos.eth.limo) |
+| [trade-crypto.eth](https://yield-farming.eth.limo) |
+| [nft-tcg.eth](https://nft-tcg.eth.limo) |
+
+<h3 align="center">
+Actively learning about Ethereum, Internet Protocols, NeoVim, and more! 
+</h3>
 
 <p align="center">
 	<a href="https://app.daily.dev/matthewp"><img src="https://api.daily.dev/devcards/f31b06c5aafd4d09bc20530ccfceedb5.png?r=wq0" width="400" alt="Matt Pryor's Dev Card"/></a>
