@@ -2,7 +2,7 @@
 	<a href="https://app.daily.dev/matthewp"><img src="https://api.daily.dev/devcards/f31b06c5aafd4d09bc20530ccfceedb5.png?r=wq0" width="400" alt="Matt Pryor's Dev Card"/></a>
 </p>
 <ul>
-	<li>💻 I am Full Stack Developer who recently completed a coding bootcamp with the University of Toronto.</li>
+	<li>💻 I jumpstarted by lifestyle as a programmer through a full-stack development course with University of Toronto.</li>
 	<li>🎓 I have two Bachelor degrees: Honours of Physical and Health Education and Education from Laurentian University in Sudbury, Ontario, Canada.</li>
 	<li>⛓ I am very interested in blockchains and data science, and would like to learn more about blockchain development.</li>
 	<li>🔭 Working on practicing my skills and learning as much as possible.</li>
