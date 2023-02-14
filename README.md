@@ -7,7 +7,8 @@
 	<li>⛓ I am very interested in blockchains, decentralized and distributed systems, cybersecurity, data science, and would like to learn more about the various layers of the networking layer.</li>
 	<li>🔭 Working on practicing my skills and learning as much as possible.</li>
 	<li>🧠 Learning about blockchain development, how blockchains work, how they scale, etc.</li>
-	<li>👨🏼‍💻 Main languages: JavaScript, MySQL, Solidity.</li>
+	<li>👨🏼‍💻 Main languages: Typescript, MySQL, Solidity.</li>
+	<li>🦺 Currently building an e-commerce store for a client using WordPress and WooCommerce.</li>
 	<li>🖋 I’m currently open for: <b>an entry-level or Intern opportunity</b> or a new <b>full-time job</b>. Please check out <a href="https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing" target="_blank">MY RESUME</a>.</li>
 </ul>
 <hr>
