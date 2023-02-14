@@ -2,9 +2,9 @@
 	<a href="https://app.daily.dev/matthewp"><img src="https://api.daily.dev/devcards/f31b06c5aafd4d09bc20530ccfceedb5.png?r=wq0" width="400" alt="Matt Pryor's Dev Card"/></a>
 </p>
 <ul>
-	<li>💻 I jumpstarted by lifestyle as a programmer through a full-stack development course with University of Toronto.</li>
+	<li>💻 I became interested in programming and completed a full-stack development course with University of Toronto.</li>
 	<li>🎓 I have two Bachelor degrees: Honours of Physical and Health Education and Education from Laurentian University in Sudbury, Ontario, Canada.</li>
-	<li>⛓ I am very interested in blockchains and data science, and would like to learn more about blockchain development.</li>
+	<li>⛓ I am very interested in blockchains, decentralized and distributed systems, cybersecurity, data science, and would like to learn more about the various layers of the networking layer.</li>
 	<li>🔭 Working on practicing my skills and learning as much as possible.</li>
 	<li>🧠 Learning about blockchain development, how blockchains work, how they scale, etc.</li>
 	<li>👨🏼‍💻 Main languages: JavaScript, MySQL, Solidity.</li>
