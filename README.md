@@ -12,28 +12,6 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Outdoor+Adventure+Enthusiast;Freelancer;Seeking+Employment;Friendly;Always%20Learning&center=true&width=380&height=45"></a>
 </p>
 
-<div align="center">
-	<h2>Deployed Web Apps</h2>
-<p align="center">
-	
-1. [yield-farming.eth][1]
-2. [execution-layer.eth][2]
-3. [epos.eth][3]
-4. [trade-crypto.eth][4]
-5. [nft-tcg.eth][5]
-	</p>
-	</div>
-
-[1]: https://yield-farming.eth.limo
-[2]: https://execution-layer.eth.limo
-[3]: https://epos.eth.limo
-[4]: https://trade-crypto.eth.limo
-[5]: https://nft-tcg.eth.limo
-	
-<h3 align="center">
-Actively learning about Ethereum, Internet Protocols, NeoVim, and more! 
-</h3>
-
 <p align="center">
 	<a href="https://app.daily.dev/matthewp"><img src="https://api.daily.dev/devcards/f31b06c5aafd4d09bc20530ccfceedb5.png?r=wq0" width="400" alt="Matt Pryor's Dev Card"/></a>
 	
