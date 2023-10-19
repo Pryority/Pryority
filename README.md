@@ -12,15 +12,16 @@
 	<li>🖋 I’m currently open for: <b>an entry-level or Intern opportunity</b> or a new <b>full-time job</b>. Please check out <a href="https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing" target="_blank">MY RESUME</a>.</li>
 </ul>
 <hr>
-🗣 Connect with me
+<p align="center">
+	🗣 Connect with me
+</p>
 <p align="center">
 	<a href="mailto:matthewapryor@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 	<a href="https://www.linkedin.com/in/pryor-matthew"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 	<a href="https://github.com/Pryority"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
-🛠️ My Favorite Tools
 <p align="center">
-	Languages
+	🛠️ My Favorite Languages
 </p>
 <p align="center">
 	<a href="https://github.com/Pryority"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
