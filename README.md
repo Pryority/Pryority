@@ -22,7 +22,7 @@
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
         <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
-        <img alt="Rust" src="https://img.shields.io/badge/Rust-%23f46623.svg?style=for-the-badge&logo=rust&logoColor=black">
+        <img alt="Rust" src="https://img.shields.io/badge/Rust-%23f46623.svg?style=for-the-badge&logo=rust">
         <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 </p>
 
