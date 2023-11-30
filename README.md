@@ -44,8 +44,8 @@
 - 🔭 Actively practicing skills and exploring new technologies.
 - 🧠 Learning about blockchain development, scalability, and network layers.
 - 👨🏼‍💻 Main languages: Typescript, MySQL, Solidity.
-- 🦺 Building an e-commerce store using WordPress and WooCommerce.
-- 🖋 Open to **entry-level or Intern** opportunities. Check out [MY RESUME](https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing).
+- 🦺 Built an e-commerce store using WordPress, WooCommerce and Moneris.
+- 🖋 **Open to any and all developer opportunities**. Check out [MY RESUME](https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing).
 
 <!-- Contact Me Section -->
 ### Connect with Me
