@@ -5,9 +5,17 @@
     </a>
 </p>
 
+<!-- Title and Subtitle -->
+<h1 align="center">Hi 👋, I'm Matthew Pryor</h1>
+<h3 align="center">Full-Stack Web3 Developer | DeFi Specialist | Smart Contract Engineer</h3>
+
 <!-- About Me and Daily.dev Section -->
 <p align="center">
-    <a href="https://app.daily.dev/matthewp">Daily.dev Profile</a> • 💻 Full-Stack Developer • 🎓 Educator • 🛠️ Blockchain Enthusiast • 🌐 Web3 Innovator
+    <a href="https://app.daily.dev/matthewp">Daily.dev Profile</a> • 
+    💻 Full-Stack Developer • 
+    🎓 Educator • 
+    🛠️ Blockchain Enthusiast • 
+    🌐 Web3 Innovator
 </p>
 
 <!-- Contact Badges -->
@@ -18,61 +26,64 @@
     <a href="https://www.linkedin.com/in/pryor-matthew">
         <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/Pryority/Pryority">
+    <a href="https://github.com/Pryority">
         <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://warpcast.com/mpryor.eth">
-        <img src="https://img.shields.io/badge/warpcast-%23422786.svg?style=for-the-badge&logo=warpcast&logoColor=white" alt="Warpcast">
+        <img src="https://img.shields.io/badge/farcaster-%23855DCD.svg?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster">
     </a>
 </p>
 
-<!-- Tech Stack Badges -->
+<!-- Tech Stack -->
+<h2 align="center">Tech Stack</h2>
+
+<!-- Web3 Stack -->
+<h3 align="center">Web3 Development</h3>
 <p align="center">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
-    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
-    <img alt="SQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+    <img src="https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry">
+    <img src="https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat">
+    <img src="https://img.shields.io/badge/Wagmi-%234E529A.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Wagmi">
+    <img src="https://img.shields.io/badge/WalletConnect-%233B99FC.svg?style=for-the-badge&logo=walletconnect&logoColor=white" alt="WalletConnect">
 </p>
 
-### About Me
-- 💼 Full-stack web developer with hands-on experience from over 20+ projects
-- 🚀 Specializing in Web3 technologies, DApps, and blockchain development
-- 🏆 Winner of Coinbase's Onchain Summer Hackathon (Unplugged Track)
-- 🎓 Holds Bachelor degrees in Physical and Health Education and Education from Laurentian University, Ontario, Canada
-- 🛠️ Skilled in frontend (React.js, Next.js), backend (EVM Indexer, Postgres), and Web3 (Smart Contracts, Solidity, Account Abstraction)
+<!-- Frontend Stack -->
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+    <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+</p>
 
-### Recent Projects
+<!-- Backend Stack -->
+<h3 align="center">Backend & Infrastructure</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+    <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
 
-#### Frontend & Web3 Developer at Truworld (May 2024 - Present)
-- Developed a Next.js application for minting NFTs with Account Abstraction using Coinbase's Smart Wallet SDK
-- Integrated paymaster (ERC-4337) for sponsored transaction gas
-- Implemented WalletConnect, Viem, and Wagmi for advanced blockchain interactions
+### 🚀 Recent Achievements
+- 🏆 Won Coinbase's Onchain Summer Hackathon (Unplugged Track)
+- 📈 Drove 1400% market cap growth for FRAME Token through UI/UX improvements
+- 🔧 Built comprehensive NFT minting system with ERC-4337 integration
 
-#### Full-Stack Developer at FRAME Token (Feb. 2024 - May 2024)
-- Designed and developed a staking incentive marketplace for the first ERC-20 token minted via Frame on Warpcast
-- Improved UI/UX using Next.js with Shadcn/ui and Tailwind CSS, contributing to a 1400% market cap increase
-- Implemented Ethereum/EVM (Base L2) indexer using Ponder for data analytics
+### 🔭 Current Projects
+- Frontend & Web3 Developer at [Truworld](https://dapp.truworld.xyz)
+- Full-Stack Developer at [FRAME Token](https://frametoken.us)
+- Developer & Maintainer at [Cambia Distribution](https://cambia-distribution.com)
 
-#### Frontend Developer at Valare Studios (Nov. 2023 - March 2024)
-- Launched a debut website using React.js and Next.js with advanced CSS styling and Framer Motion animations
-- Configured Sanity CMS with GROQ for customizable content management
+### 📫 How to reach me
+- Email: [matthewapryor@gmail.com](mailto:matthewapryor@gmail.com)
+- LinkedIn: [pryor-matthew](https://linkedin.com/in/pryor-matthew)
+- Farcaster: [@mpryor.eth](https://warpcast.com/mpryor.eth)
 
-### Skills
-- **Frontend**: TypeScript, Next.js, React.js, HTML5, CSS, Tailwind
-- **Backend**: EVM Indexer, Postgres, SQLite, Sanity, WordPress, Shopify
-- **Web3**: Smart Contracts, Solidity, Foundry, Hardhat, Viem, Wagmi, WalletConnect, Account Abstraction, NFTs, DeFi
+---
 
-### Education
-- **Full-Stack Development Certificate** - University of Toronto (Feb 2022 - July 2022)
-- **Bachelor of Education** - Laurentian University (Sept 2020 - April 2021)
-- **Bachelor of Physical Health Education** - Laurentian University (Sept 2016 - April 2020)
-
-### Connect with Me
-- 📧 Email: [matthewapryor@gmail.com](mailto:matthewapryor@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/pryor-matthew](https://www.linkedin.com/in/pryor-matthew)
-- 🐙 GitHub: [github.com/Pryority](https://github.com/Pryority)
-- 🌐 Warpcast: [warpcast.com/mpryor.eth](https://warpcast.com/mpryor.eth)
-
-🔍 **Open to developer opportunities**. Check out [MY RESUME](https://drive.google.com/file/d/10Da2TqzuclZtEFW3SFpL45WozJXJIakC/view?usp=sharing) for more details.
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pryority&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
