@@ -74,8 +74,6 @@
 
 ### 🔭 Current Projects
 - Frontend & Web3 Developer at [Truworld](https://dapp.truworld.xyz)
-- Full-Stack Developer at [FRAME Token](https://frametoken.us)
-- Developer & Maintainer at [Cambia Distribution](https://cambia-distribution.com)
 
 ### 📫 How to reach me
 - Email: [matthewapryor@gmail.com](mailto:matthewapryor@gmail.com)
